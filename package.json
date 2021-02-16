@@ -1,5 +1,5 @@
 {
-  "name": "@pown/regex",
+  "name": "@pown/regexp",
   "version": "2.0.0",
   "description": "Pownage guaranteed",
   "main": "lib/index.js",
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/pownjs/pown-regex.git"
+    "url": "git+https://github.com/pownjs/pown-regexp.git"
   },
   "keywords": [
     "exploit",
@@ -21,9 +21,9 @@
   "contributors": [],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/pownjs/pown-regex/issues"
+    "url": "https://github.com/pownjs/pown-regexp/issues"
   },
-  "homepage": "https://github.com/pownjs/pown-regex#readme",
+  "homepage": "https://github.com/pownjs/pown-regexp#readme",
   "dependencies": {
     "re2": "^1.15.9"
   }
