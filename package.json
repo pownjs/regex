@@ -1,0 +1,30 @@
+{
+  "name": "@pown/regex",
+  "version": "2.0.0",
+  "description": "Pownage guaranteed",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "browser": {
+    "re2": false
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pownjs/pown-regex.git"
+  },
+  "keywords": [
+    "exploit",
+    "framework"
+  ],
+  "author": "pdp <pdp@gnucitizen.org>",
+  "contributors": [],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pownjs/pown-regex/issues"
+  },
+  "homepage": "https://github.com/pownjs/pown-regex#readme",
+  "dependencies": {
+    "re2": "^1.15.9"
+  }
+}
