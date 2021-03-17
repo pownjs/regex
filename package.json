@@ -4,7 +4,10 @@
   "description": "Pownage guaranteed",
   "main": "lib/index.js",
   "scripts": {
-    "test": "mocha"
+    "regexp": "true",
+    "usage": "true",
+    "build": "true",
+    "test": "true"
   },
   "browser": {
     "re2": false
