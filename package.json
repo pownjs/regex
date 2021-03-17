@@ -25,7 +25,7 @@
   },
   "homepage": "https://github.com/pownjs/pown-regexp#readme",
   "devDependencies": {
-    "@pown/toolchain": "^2.0.0"
+    "@pown/toolchain": "^2.1.0"
   },
   "dependencies": {
     "re2": "^1.15.9"
